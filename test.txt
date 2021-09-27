@@ -1,1 +1,2 @@
 this is a test git
+I pushed it from git bash to github
